@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuestUnfucker</string>
+    <string name="xposed_description">Enables functionality that Meta disabled in their OS.</string>
+</resources>
